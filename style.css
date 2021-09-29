@@ -1,0 +1,17 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(206, 248, 211);
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    margin: auto 10px;
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    border-radius: 6px;
+    border: 1px solid blueviolet;
+    padding: 10px;
+}
